@@ -1,0 +1,2 @@
+cnn_mnist_rot
+cnn_mnist_experiments
